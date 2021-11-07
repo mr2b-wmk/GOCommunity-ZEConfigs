@@ -1,6 +1,7 @@
 # 5EPlay-ZEConfigs
 Console message manager
 ## 使用说明
+|----------|----------------------------------------------------------------------------|
 | default  | 对应的中文翻译 [string] |
 | print | 消息输出方式 [string] |
 | timer  | 消息倒计时时长 [int] |
