@@ -1,4 +1,4 @@
-# 5EPlayer-ZEConfigs
+# 5EPlay-ZEConfigs
 5EPlay ZombieEscape Configs Settings
 ## 使用说明
 | 对应目录 | 说明                                                                       |
