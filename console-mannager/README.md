@@ -3,13 +3,6 @@ Console message manager
 ## 使用说明
 |----------|----------------------------------------------------------------------------|
 | default  | 对应的中文翻译 [string] |
-| print | 消息输出方式 [string] |
-| timer  | 消息倒计时时长 [int] |
-| timercover  | 覆盖倒计时消息 [1/0] |
-| timertip  | 倒计时消息格式 [string] |
-| timerend  | 倒计时结束后的提示语 [string] |
-| mulithud  | 是否加入滚动HUD消息队列 [1/0] |
-| taskhud  | 是否加入任务HUD消息队列 [1/0] |
 
 
 举例子说明:
