@@ -11,6 +11,8 @@ Console message manager
 | timerend  | 倒计时结束后的提示语 [string] |
 | mulithud  | 是否加入滚动HUD消息队列 [1/0] |
 | taskhud  | 是否加入任务HUD消息队列 [1/0] |
+| color  | 屌用没有 |
+| coordinate  | 屌用没有 |
 ---
 
 举例子说明:
