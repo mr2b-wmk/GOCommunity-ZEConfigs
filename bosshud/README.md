@@ -1,3 +1,13 @@
+# 5EPlay-ZEConfigs
+Boss HUD Infomations
+## 使用说明
+| 分类 | 说明            		|
+|:----------:|:-------------------:|
+| math_counter  | 计数器类BOSS  	|
+| 非math_counter  | 计算伤害类BOSS 	|
+---
+
+
 ## 详细说明
 ```
 <1> 非math_counter类型
