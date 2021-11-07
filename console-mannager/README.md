@@ -13,6 +13,7 @@ Console message manager
 
 
 举例子说明:
+##
 "*** Leaf 1 leaving in 7 seconds ***" // 对应的地图消息
 {
 		"default"		"*** 叶子1还有7秒离开 ***" // 这里是翻译的译文
