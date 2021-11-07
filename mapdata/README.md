@@ -4,8 +4,8 @@ Map data manager
 
 ```flow
 st=>start: 开始
-op=>operation: 遍历maps.cfg中参数设置
-cond=>condition: 改参数是否存在于default.ini中
+op=>operation: My Operation
+cond=>condition: Yes or No?
 e=>end
 st->op->cond
 cond(yes)->e
