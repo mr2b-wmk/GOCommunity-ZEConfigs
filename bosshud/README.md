@@ -7,7 +7,7 @@ Boss HUD Infomations
 | 非math_counter  | 计算伤害类BOSS 	|
 ---
 ## 字段解释
-| 关键词 | 非math_counter类型实体 |
+| 关键词 | 非math_counter |
 |:----------:|:-------------------:|
 | 开头数字id  | 实体hammerid, 插件会自动填写, 如果是遗漏的实体需要添加则必须填上hammerid 	|
 | classname  | 实体classname	|
@@ -17,6 +17,21 @@ Boss HUD Infomations
 | created_tip | 实体激活的提示语	|
 | damage_hud  | 伤害实体时的HUD信息显示	|
 | health  | 实体血量记录	|
+---
+
+| 关键词 | math_counter |
+|:----------:|:-------------------:|
+| 开头数字id  | 实体hammerid, 插件会自动填写, 如果是遗漏的实体需要添加则必须填上hammerid 	|
+| classname  | 实体classname	|
+| name  | 实体m_iName	|
+| translate  | 实体名称的中文翻译	|
+| status  | 消灭实体之后, 是否打印伤害排行榜	|
+| created_tip | 实体激活的提示语	|
+| damage_hud  | 伤害实体时的HUD信息显示	|
+| change_mode  | 计数方式	|
+| change_tip  | 数值改变时候的提示语	|
+| health  | 实体血量记录	|
+| health_bar  | 实体的血条数量	|
 ---
 
 ## 详细说明
