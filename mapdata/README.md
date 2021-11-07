@@ -2,15 +2,10 @@
 Map data manager
 ## 文本使用逻辑
 
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
+>在default.ini中注册好需要修改的参数
+>>格式: 中文名 = cvar_name
+>>>然后插件在加载之后, 会向对应的map.cfg中添加字段
+>>>>然后修改map.cfg对应字段的值即可
 
 ```
 举例子说明:
