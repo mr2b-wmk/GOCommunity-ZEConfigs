@@ -1,7 +1,5 @@
 ## 详细说明
 ```
-只会记录两种情况的BOSS信息, 分别为1. math_counter类型和 2. 非math_counter类型,
-现在对这两个类型的数据进行举例子说明:
 <1> 非math_counter类型
 "503736" // HammerId (所有配置文件关于实体的我都以hammerid为selection）
 {
@@ -13,6 +11,8 @@
 	"damage_hud"		"on" // 是否开启HUD攻击反馈 (on -> 开 | off -> 关)
 	"health"		"1" // 记录BOSS在记录的时候血量 （这里的血量只是记录给我参考用的, 修改这里并不会直接修改BOSS血量, 后续我有可能会直接做成可修改BOSS血量）
 }
+```
+```
 <2> math_counter类型
 "2710" // HammerId
 {
