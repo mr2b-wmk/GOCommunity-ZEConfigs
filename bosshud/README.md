@@ -7,7 +7,7 @@ Boss HUD Infomations
 | 非math_counter  | 计算伤害类BOSS 	|
 ---
 ## 字段解释
-| 非math_counter类型实体 |
+| 关键词 | 非math_counter类型实体 |
 |:----------:|:-------------------:|
 | 开头数字id  | 实体hammerid, 插件会自动填写, 如果是遗漏的实体需要添加则必须填上hammerid 	|
 | classname  | 实体classname	|
