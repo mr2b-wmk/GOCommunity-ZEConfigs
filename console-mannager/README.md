@@ -34,7 +34,7 @@ Console message manager
 
 ## NULL格式-Copy用
 ```
-" " // 对应的地图消息
+" "
 {
 	"default"		" "
 	"print"		"hud"
