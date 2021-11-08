@@ -1,4 +1,4 @@
-# 5EPlay-ZEConfigs
+# Gocommunity-ZEConfigs
 Map data manager
 ## 文本使用逻辑
 
