@@ -1,4 +1,4 @@
-# CSGOCommunity-ZEConfigs
+GOCommunity-ZEConfigs
 5E CSGO Community ZombieEscape Configs Settings
 ## 使用说明
 | 对应目录 | 说明                                                                       |
