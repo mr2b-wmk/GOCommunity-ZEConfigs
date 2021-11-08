@@ -1,4 +1,4 @@
-# 5EPlay-ZEConfigs
+# Gocommunity-ZEConfigs
 entWatch informations
 ## 字段解释
 | 关键词 | 说明            		|
