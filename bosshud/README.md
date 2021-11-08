@@ -6,7 +6,7 @@ Boss HUD Infomations
 | math_counter  | 计数器类BOSS  	|
 | 非math_counter  | 计算伤害类BOSS 	|
 ---
-## 字段解释
+## 非math_counter类型
 | 关键词 | 非math_counter |
 |:----------:|:-------------------:|
 | 开头数字id  | 实体hammerid, 插件会自动填写, 如果是遗漏的实体需要添加则必须填上hammerid 	|
@@ -19,6 +19,22 @@ Boss HUD Infomations
 | health  | 实体血量记录	|
 ---
 
+### 举例
+```
+<1> 非math_counter类型
+"503736" // HammerId (所有配置文件关于实体的我都以hammerid为selection）
+{
+	"classname"		"func_physbox_multiplayer" // classname
+	"name"		"Monstruo_Breakable" // m_iName
+	"translate"	"中文名"	// 中文翻译
+	"status"		"off" // 是否开启击杀统计即伤害结算排名面板 (on -> 开 | off -> 关) PS：慎用，请你在知道你真正需要的时候在开启on
+	"created_tip"		"on"  // 是否在BOSS诞生的时候开启提示文本 (on -> 开| off -> 关) PS：这个功能正在（新建文件夹）还没弄
+	"damage_hud"		"on" // 是否开启HUD攻击反馈 (on -> 开 | off -> 关)
+	"health"		"1" // 记录BOSS在记录的时候血量 （这里的血量只是记录给我参考用的, 修改这里并不会直接修改BOSS血量, 后续我有可能会直接做成可修改BOSS血量）
+}
+```
+
+## math_counter类型
 | 关键词 | math_counter |
 |:----------:|:-------------------:|
 | 开头数字id  | 实体hammerid, 插件会自动填写, 如果是遗漏的实体需要添加则必须填上hammerid 	|
@@ -34,20 +50,7 @@ Boss HUD Infomations
 | health_bar  | 实体的血条数量	|
 ---
 
-## 详细说明
-```
-<1> 非math_counter类型
-"503736" // HammerId (所有配置文件关于实体的我都以hammerid为selection）
-{
-	"classname"		"func_physbox_multiplayer" // classname
-	"name"		"Monstruo_Breakable" // m_iName
-	"translate"	"中文名"	// 中文翻译
-	"status"		"off" // 是否开启击杀统计即伤害结算排名面板 (on -> 开 | off -> 关) PS：慎用，请你在知道你真正需要的时候在开启on
-	"created_tip"		"on"  // 是否在BOSS诞生的时候开启提示文本 (on -> 开| off -> 关) PS：这个功能正在（新建文件夹）还没弄
-	"damage_hud"		"on" // 是否开启HUD攻击反馈 (on -> 开 | off -> 关)
-	"health"		"1" // 记录BOSS在记录的时候血量 （这里的血量只是记录给我参考用的, 修改这里并不会直接修改BOSS血量, 后续我有可能会直接做成可修改BOSS血量）
-}
-```
+### 举例
 ```
 <2> math_counter类型
 "2710" // HammerId
