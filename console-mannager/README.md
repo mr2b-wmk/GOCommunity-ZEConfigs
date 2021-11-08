@@ -15,7 +15,7 @@ Console message manager
 | coordinate  | 屌用没有 |
 ---
 
-举例子说明:
+## 举例子说明:
 ```
 "*** Leaf 1 leaving in 7 seconds ***" // 对应的地图消息
 {
@@ -29,5 +29,22 @@ Console message manager
 	"taskhud"		"0" // 是否加入任务HUD信息队列 （就是屏幕左边的3个任务HUD通道）
 	"color"		"0.000000 0.000000 0.000000" // 没用
 	"coordinate"		"0.000000 0.000000 0.000000" // 没用
+}
+```
+
+## NULL格式-Copy用
+```
+" " // 对应的地图消息
+{
+	"default"		" "
+	"print"		"hud"
+	"timer"		"0"
+	"timercover"		"0" 
+	"timertip"		"倒计时 {time} 秒"
+	"timerend"	" "
+	"mulithud"		"1" 
+	"taskhud"		"0"
+	"color"		"0.000000 0.000000 0.000000"
+	"coordinate"		"0.000000 0.000000 0.000000"
 }
 ```
