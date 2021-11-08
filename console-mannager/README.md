@@ -1,4 +1,4 @@
-# 5EPlay-ZEConfigs
+# Gocommunity-ZEConfigs
 Console message manager
 ## 使用说明
 | 关键词 | 说明                                                                       |
