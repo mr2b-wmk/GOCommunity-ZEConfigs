@@ -31,5 +31,3 @@ Console message manager
 	"coordinate"		"0.000000 0.000000 0.000000" // 没用
 }
 ```
-
-test
