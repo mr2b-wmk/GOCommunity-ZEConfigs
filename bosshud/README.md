@@ -1,4 +1,4 @@
-# 5EPlay-ZEConfigs
+# Gocommunity-ZEConfigs
 Boss HUD Infomations
 ## BOSS分类
 | 分类 | 说明            		|
