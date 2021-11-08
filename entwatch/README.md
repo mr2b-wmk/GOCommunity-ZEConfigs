@@ -1,5 +1,5 @@
 # 5EPlay-ZEConfigs
-entWtach informations
+entWatch informations
 ## 字段解释
 | 关键词 | 说明            		|
 |:----------:|:-------------------:|
