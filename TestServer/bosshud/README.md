@@ -1,4 +1,4 @@
-# Gocommunity-ZEConfigs
+# Go community-ZEConfigs
 Boss HUD Infomations
 ## BOSS分类
 | 分类 | 说明            		|
