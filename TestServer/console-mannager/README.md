@@ -11,8 +11,6 @@ Console message manager
 | timerend  | 倒计时结束后的提示语 [string] |
 | mulithud  | 是否加入滚动HUD消息队列 [1/0] |
 | taskhud  | 是否加入任务HUD消息队列 [1/0] |
-| color  | 屌用没有 |
-| coordinate  | 屌用没有 |
 ---
 
 ## 举例子说明:
@@ -27,8 +25,6 @@ Console message manager
 	"timerend"	"叶子1号小船, 已经起航, 不要在小船上乱跳哦!" // 倒计时结束后, 出现的蓝色提示文本
 	"mulithud"		"1" // 是否加入滚动HUD信息队列 (就是绿色的那个滚动HUD)
 	"taskhud"		"0" // 是否加入任务HUD信息队列 （就是屏幕左边的3个任务HUD通道）
-	"color"		"0.000000 0.000000 0.000000" // 没用
-	"coordinate"		"0.000000 0.000000 0.000000" // 没用
 }
 ```
 
@@ -44,7 +40,5 @@ Console message manager
 	"timerend"	" "
 	"mulithud"		"1" 
 	"taskhud"		"0"
-	"color"		"0.000000 0.000000 0.000000"
-	"coordinate"		"0.000000 0.000000 0.000000"
 }
 ```
