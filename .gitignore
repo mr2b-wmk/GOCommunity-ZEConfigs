@@ -12,7 +12,6 @@
 *.sdf
 *.suo
 *.user
-*.idea
 
 # Build directories
 CrazyDebug*/
@@ -41,4 +40,5 @@ objdir
 
 .vs/*
 .vscode/*
+*.idea/*
 .gitignore
