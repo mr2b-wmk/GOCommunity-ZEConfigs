@@ -40,5 +40,5 @@ objdir
 
 .vs/*
 .vscode/*
-*.idea/*
+.idea/*
 .gitignore
