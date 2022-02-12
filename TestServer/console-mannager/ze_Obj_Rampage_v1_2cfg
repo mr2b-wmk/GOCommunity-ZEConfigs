@@ -12,7 +12,7 @@
 	}
 	"Good Luck !"
 	{
-		"default"		"Good Luck !"
+		"default"		"祝你好运！！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -22,7 +22,7 @@
 	}
 	"Special thanks to Zombieden for testing and people who guiding me on anything"
 	{
-		"default"		"Special thanks to Zombieden for testing and people who guiding me on anything"
+		"default"		"翻译；韭菜墨，感谢；李式夫，獾之使者，兔子怎么不见啦"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -32,7 +32,7 @@
 	}
 	"Some of the zombie cage has placed portals to teleport between each zombie cage"
 	{
-		"default"		"Some of the zombie cage has placed portals to teleport between each zombie cage"
+		"default"		"一些僵尸笼子在每个僵尸笼子之间放置了传送门"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -42,7 +42,7 @@
 	}
 	"zombies, take advantage of it!"
 	{
-		"default"		"zombies, take advantage of it!"
+		"default"		"僵尸们，好好利用吧！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -52,17 +52,17 @@
 	}
 	"The door opening in 15s"
 	{
-		"default"		"The door opening in 15s"
+		"default"		"门在15秒后打开"
 		"print"		"hud"
-		"timer"		"0"
+		"timer"		"15"
 		"timercover"		"0"
-		"timertip"		"倒计时 {time} 秒"
+		"timertip"		"门 {time} 秒后打开"
 		"mulithud"		"1"
 		"taskhud"		"0"
 	}
 	"Find a way to turn off the gas"
 	{
-		"default"		"Find a way to turn off the gas"
+		"default"		"想办法关掉煤气"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -72,7 +72,7 @@
 	}
 	"Put the valve on and turn it"
 	{
-		"default"		"Put the valve on and turn it"
+		"default"		"拿起阀门，然后把它打开"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -82,17 +82,17 @@
 	}
 	"The doors opening in 30s"
 	{
-		"default"		"The doors opening in 30s"
+		"default"		"防爆门在30秒后打开"
 		"print"		"hud"
-		"timer"		"0"
+		"timer"		"30"
 		"timercover"		"0"
-		"timertip"		"倒计时 {time} 秒"
+		"timertip"		"防爆门 {time} 秒打开"
 		"mulithud"		"1"
 		"taskhud"		"0"
 	}
 	"Prepare.."
 	{
-		"default"		"Prepare.."
+		"default"		"让我们准备打开它
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -102,7 +102,7 @@
 	}
 	"Door is opening"
 	{
-		"default"		"Door is opening"
+		"default"		"门正在打开"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -112,7 +112,7 @@
 	}
 	"RUN"
 	{
-		"default"		"RUN"
+		"default"		"跑！！！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -122,7 +122,7 @@
 	}
 	"Get in and keep holding until the door is closed!"
 	{
-		"default"		"Get in and keep holding until the door is closed!"
+		"default"		"快进门！坚持到门关闭！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -132,7 +132,7 @@
 	}
 	"We need to hack the computer and upload the virus!"
 	{
-		"default"		"We need to hack the computer and upload the virus!"
+		"default"		"我们需要给电脑植入木马病毒！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -142,7 +142,7 @@
 	}
 	"GET ON THE ELEVATOR"
 	{
-		"default"		"GET ON THE ELEVATOR"
+		"default"		"上电梯吧"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -152,7 +152,7 @@
 	}
 	"Find a way to get into the room!"
 	{
-		"default"		"Find a way to get into the room!"
+		"default"		"打爆汽油桶，进入房间！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -162,7 +162,7 @@
 	}
 	"Stay inside the room until the zombies outside get teleport!"
 	{
-		"default"		"Stay inside the room until the zombies outside get teleport!"
+		"default"		"守住房间，直到僵尸传送！！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -172,17 +172,17 @@
 	}
 	"Climb up the boxes after activated the detonator !"
 	{
-		"default"		"Climb up the boxes after activated the detonator !"
+		"default"		"启动炸弹，坚守85秒"
 		"print"		"hud"
-		"timer"		"0"
+		"timer"		"85"
 		"timercover"		"0"
-		"timertip"		"倒计时 {time} 秒"
+		"timertip"		"坚守 {time} 秒"
 		"mulithud"		"1"
 		"taskhud"		"0"
 	}
 	"Keep holding until zombies get teleport!"
 	{
-		"default"		"Keep holding until zombies get teleport!"
+		"default"		"坚持住，直到僵尸全部传送！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -192,7 +192,7 @@
 	}
 	"Break the laser power switch!"
 	{
-		"default"		"Break the laser power switch!"
+		"default"		"打破激光电源开关！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -202,7 +202,7 @@
 	}
 	"Watch out!"
 	{
-		"default"		"Watch out!"
+		"default"		"小心!"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -212,7 +212,7 @@
 	}
 	"Get inside !"
 	{
-		"default"		"Get inside !"
+		"default"		"快进去！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -222,7 +222,7 @@
 	}
 	"Place the c4 to break the wall!"
 	{
-		"default"		"Place the c4 to break the wall!"
+		"default"		"放置C4来打破墙壁！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -232,17 +232,17 @@
 	}
 	"C4 has been planted"
 	{
-		"default"		"C4 has been planted"
+		"default"		"C4已启动，坚守92秒！"
 		"print"		"hud"
-		"timer"		"0"
+		"timer"		"92"
 		"timercover"		"0"
-		"timertip"		"倒计时 {time} 秒"
+		"timertip"		"坚守 {time} 秒"
 		"mulithud"		"1"
 		"taskhud"		"0"
 	}
 	"Prepare for your LAST FIGHT"
 	{
-		"default"		"Prepare for your LAST FIGHT"
+		"default"		"为你的最后一场比赛做好准备"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -252,7 +252,7 @@
 	}
 	"Trigger the BOMB and wait for helipoter to bring us out of this island !"
 	{
-		"default"		"Trigger the BOMB and wait for helipoter to bring us out of this island !"
+		"default"		"引爆炸弹，等直升机带我们离开这个岛！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
@@ -262,7 +262,7 @@
 	}
 	"GET ON THE HELICOPTER"
 	{
-		"default"		"GET ON THE HELICOPTER"
+		"default"		"快上直升机！"
 		"print"		"hud"
 		"timer"		"0"
 		"timercover"		"0"
