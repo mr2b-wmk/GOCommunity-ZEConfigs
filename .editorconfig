@@ -1,0 +1,22 @@
+# http://editorconfig.org
+# 控制 .editorconfig 是否生效的字段
+root = true
+# 匹配全部文件
+[*]
+# 设置字符集
+charset = utf-8
+# 空格形式缩进4空格
+indent_style = space
+indent_size = 4
+# 使用单引号
+quote_type = single
+# Linux换行符
+end_of_line = lf
+# 结尾插入新行
+insert_final_newline = true
+# 去除结尾空格
+trim_trailing_whitespace = true
+
+[*.md]
+insert_final_newline = true
+trim_trailing_whitespace = false
