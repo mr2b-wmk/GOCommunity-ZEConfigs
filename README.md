@@ -9,5 +9,5 @@
 | mapdata          | [地图参数详情](./mapdata/README.md)          |
 | stripper         | [地图实体修改](./stripper/README.md)         |
 ## 注意事项
-请各位参加编辑的宝宝们, 请先在TestServer路径中上传你刚刚修改好的配置文本, 在测试服中测试完毕之后,
-在上传到正式服的配置文件路径中, 避免因为配置文件出错导致的服务器崩溃! Thanks~
+请各位参加编辑的宝宝们, 在测试服跑图完毕之后，找bb索要entwatch、consolemannager文本，
+Thanks~
