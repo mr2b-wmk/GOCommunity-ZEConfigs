@@ -1,5 +1,5 @@
-## GO Community-ZEConfigs
-5E&GO Community ZombieEscape Configs Settings
+## TOP游廊 Community-ZEConfigs
+TOP游廊 Community ZombieEscape Configs Settings
 ## 使用说明
 | 对应目录             | 说明                                     |
 |------------------|----------------------------------------|
@@ -9,5 +9,5 @@
 | mapdata          | [地图参数详情](./mapdata/README.md)          |
 | stripper         | [地图实体修改](./stripper/README.md)         |
 ## 注意事项
-请各位参加编辑的宝宝们, 在测试服跑图完毕之后，找bb索要entwatch、consolemannager文本，
+请各位参加编辑的OP们, 在测试服跑图完毕之后，找bb索要entwatch、consolemannager文本，
 Thanks~
