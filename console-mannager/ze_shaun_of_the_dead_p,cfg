@@ -1,0 +1,513 @@
+"ConsoleMessage"
+{
+	"***BOAT ROUTE***"
+	{
+		"default"		"***船路线***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***OFFICE ROUTE***"
+	{
+		"default"		"***办公室路线***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***GET GAS FOR THE BOAT***"
+	{
+		"default"		"***给船加汽油***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***LOOK IN THE SUPPLY SHED***"
+	{
+		"default"		"***看看补给仓库***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***UNDERGROUND ROUTE***"
+	{
+		"default"		"***地铁路线***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***A PLAYER NEEDS TO GO INSIDE THE VENT***"
+	{
+		"default"		"***需要一个玩家进入通风管道***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***GAS CANS HAVE BEEN COLLECTED***"
+	{
+		"default"		"***已经拿到煤气罐了***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***RUN BACK TO THE BOAT***"
+	{
+		"default"		"***跑回船上去***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***BOAT REFUELING***"
+	{
+		"default"		"***正在给船加油***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***BOAT LEAVES IN 5 SECONDS!***"
+	{
+		"default"		"***船在5秒后出发!***"
+		"print"		"usermessage"
+		"timer"		"5"
+		"timercover"		"0"
+		"timertip"		"船在 {time} 秒后出发"
+		"mulithud"		"1"
+		"taskhud"		"1"
+	}
+	"***ZOMBIES TAKE THE BRIDGE***"
+	{
+		"default"		"***僵尸已经占领了大桥***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***A PLAYER NEEDS TO ACTIVATE THE GATE"
+	{
+		"default"		"***需要激活大门"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***LOCK GATE 1 OPENING***"
+	{
+		"default"		"***1号闸门开启***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***SOMEONE NEEDS TO UP THE WATER LEVELS***"
+	{
+		"default"		"***需要有人把水位调高***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***USE THE PIPES TO GAIN ACCESS THE CONTROL ROOM***"
+	{
+		"default"		"***利用这些管道进入控制室***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***GET OUT OF THE BOAT AND HOLD!***"
+	{
+		"default"		"***快下船，稳住别掉水里!***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***TRY TO HOLD THE BOXES***"
+	{
+		"default"		"***试着拿走这些箱子***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***WATER LEVELS RISING***"
+	{
+		"default"		"***水位上升***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***LOCK GATE 2 OPENING***"
+	{
+		"default"		"***2号闸门开启***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***DOOR OPENS IN 10 SECONDS***"
+	{
+		"default"		"***门在10秒后打开***"
+		"print"		"usermessage"
+		"timer"		"10"
+		"timercover"		"0"
+		"timertip"		"门在 {time} 秒后打开"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***DOOR OPENS IN 5 SECONDS***"
+	{
+		"default"		"***门在5秒内打开***"
+		"print"		"usermessage"
+		"timer"		"5"
+		"timercover"		"1"
+		"timertip"		"门在 {time} 秒后打开"
+		"mulithud"		"1"
+		"taskhud"		"1"
+	}
+	"***FALL BACK***"
+	{
+		"default"		"***撤退***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***HOLD THE WINDOWS***"
+	{
+		"default"		"***守住窗户***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***HOLD 20 SECONDS***"
+	{
+		"default"		"***坚持20秒***"
+		"print"		"usermessage"
+		"timer"		"20"
+		"timercover"		"0"
+		"timertip"		"坚持 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***HOLD 10 SECONDS***"
+	{
+		"default"		"***坚持10秒***"
+		"print"		"usermessage"
+		"timer"		"10"
+		"timercover"		"1"
+		"timertip"		"坚持 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***HOLD 5 SECONDS***"
+	{
+		"default"		"***坚持5秒***"
+		"print"		"usermessage"
+		"timer"		"5"
+		"timercover"		"1"
+		"timertip"		"坚持 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"1"
+	}
+	"***ENTER THE SEWERS***"
+	{
+		"default"		"***进入下水道***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***TRUCKS LEAVE IN 20 SECONDS***"
+	{
+		"default"		"***卡车20秒后出发***"
+		"print"		"usermessage"
+		"timer"		"20"
+		"timercover"		"0"
+		"timertip"		"卡车将在 {time} 秒后出发"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***TRUCKS LEAVE IN 10 SECONDS***"
+	{
+		"default"		"***卡车10秒后出发***"
+		"print"		"usermessage"
+		"timer"		"10"
+		"timercover"		"1"
+		"timertip"		"卡车将在 {time} 秒后出发"
+		"mulithud"		"1"
+		"taskhud"		"1"
+	}
+	"***HUMANS STAY ON THE BLUE TRUCK***"
+	{
+		"default"		"***人类呆在蓝色卡车上***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***GET TO THE SAFETY OF THE WINCHESTER***"
+	{
+		"default"		"***去温彻斯特酒吧，哪里安全***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***COVER THE DOOR***"
+	{
+		"default"		"***守住大门***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***AFK TELE 10 SECONDS***"
+	{
+		"default"		"***AFK的玩家将在10秒后被传送***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***ESCAPE ROUTE: ROOFTOP***"
+	{
+		"default"		"***逃跑路线:屋顶***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***RESTORE THE POWER***"
+	{
+		"default"		"***恢复电力***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***WATCH OUT FOR ZOMBIES AT THE BACK DOOR***"
+	{
+		"default"		"***小心后门的僵尸***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***FALL BACK UPSTAIRS***"
+	{
+		"default"		"***撤退，上顶楼***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***DOORS OPENS IN 30 SECONDS***"
+	{
+		"default"		"***门在30秒后打开***"
+		"print"		"usermessage"
+		"timer"		"30"
+		"timercover"		"0"
+		"timertip"		"门在 {time} 秒后打开"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***DOORS OPENS IN 20 SECONDS***"
+	{
+		"default"		"***门在20秒后打开***"
+		"print"		"usermessage"
+		"timer"		"20"
+		"timercover"		"1"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***DOORS OPENS IN 10 SECONDS***"
+	{
+		"default"		"***门在10秒后打开***"
+		"print"		"usermessage"
+		"timer"		"10"
+		"timercover"		"1"
+		"timertip"		"门在 {time} 秒后打开"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***DOORS OPENS IN 5 SECONDS***"
+	{
+		"default"		"***门在5秒后打开***"
+		"print"		"usermessage"
+		"timer"		"5"
+		"timercover"		"1"
+		"timertip"		"门在 {time} 秒后打开"
+		"mulithud"		"1"
+		"taskhud"		"1"
+	}
+	"***ELEVATOR ON THE WAY***"
+	{
+		"default"		"***电梯马上就来***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***ELEVATOR IS HERE***"
+	{
+		"default"		"***电梯门开了，快进来***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***FLOOD GATE OPENING***"
+	{
+		"default"		"***防洪闸开启***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***ELEVATOR LEAVING 15 SECONDS***"
+	{
+		"default"		"***电梯15秒后离开***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***ESCAPE ROUTE: CELLAR***"
+	{
+		"default"		"***逃跑路线:地下室***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***FALL BACK BEHIND THE BAR***"
+	{
+		"default"		"***撤退到吧台里面***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***WAIT FOR HATCH TO OPEN***"
+	{
+		"default"		"***等待地下室门打开***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***HATCH IS OPEN FALL BACK***"
+	{
+		"default"		"***门开了，快跑***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***LIFT LEAVING IN 15 SECONDS***"
+	{
+		"default"		"***电梯15秒后离开***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+	"***LIFT LEAVING IN 5 SECONDS***"
+	{
+		"default"		"***电梯5秒后离开***"
+		"print"		"hud"
+		"timer"		"0"
+		"timercover"		"0"
+		"timertip"		"倒计时 {time} 秒"
+		"mulithud"		"1"
+		"taskhud"		"0"
+	}
+}
