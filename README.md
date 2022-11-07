@@ -20,7 +20,7 @@ TOP游廊 Community ZombieEscape Configs Settings
 | win  | 获胜回合数  |
 | lost  | 失败回合数  |
 | cd  | 当前地图CD  |
-| cooldown  | 固定生效CD时长 不填默认24H  |
+| cooldown  | 订图后固定生效CD时长 不填默认24H  |
 ---
 
 ## 举例子说明:
@@ -33,7 +33,7 @@ TOP游廊 Community ZombieEscape Configs Settings
 		"win"		"0" // 获胜|通关需要的人类胜利回合数
 		"lost"		"0" //
 		"cd"		"0" //立刻生效的CD
-		"cooldown"		"25000"  //固定生效CD时长 单位秒(S)
+		"cooldown"		"25000"  //订图后固定生效CD时长 单位秒(S)
 	}
 ```
 
