@@ -14,15 +14,13 @@ TOP游廊 Community ZombieEscape Configs Settings
 ## 使用说明
 | 关键词 | 说明                                                                       |
 |----------|:----------------------------------------------------------------------------:|
-| default  | 对应的中文翻译 [string] |
-| print | 消息输出方式 [string] |
-| timer  | 消息倒计时时长 [int] |
-| timercover  | 覆盖倒计时消息 [1/0] |
-| timertip  | 倒计时消息格式 [string] |
-| timerend  | 倒计时结束后的提示语 [string] |
-| mulithud  | 是否加入滚动HUD消息队列 [1/0] |
-| taskhud  | 是否加入任务HUD消息队列 [1/0] |
-| taskmessage  | 任务HUD的显示内容, 若不填则默认显示中文翻译 [string] |
+| chinese  | 对应的中文翻译  |
+| level  | 地图难度 |
+| tag  | 地图tag |
+| win  | 获胜回合数  |
+| lost  | 失败回合数  |
+| cd  | 当前地图CD  |
+| cooldown  | 固定生效CD时长 不填默认24H  |
 ---
 
 ## 举例子说明:
