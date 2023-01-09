@@ -52,8 +52,3 @@ TOP游廊 Community ZombieEscape Configs Settings
 ```
 
 
-
-## 注意事项
-
-请各位参加编辑的OP们, 在测试服跑图完毕之后，找bb索要entwatch、consolemannager文本，
-Thanks~
