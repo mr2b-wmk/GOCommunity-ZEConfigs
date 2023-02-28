@@ -22,7 +22,7 @@ Map data manager
 }
 ```
 ## 各参数说明
-
+```
 投票延长次数 = ext_limit  //玩家手动输入的ext可用次数
 投票延长时间 = ext_time   //ext延长时间
 地图延长次数 = rtv_ext_limit  //rtv投票中9延长的次数
@@ -73,3 +73,4 @@ M249可购买次数 = zr_item_modify "M249 轻机枪" "limit"
 可携带冰冻手雷数量 = ammo_grenade_limit_smokegrenade
 可携带照明弹数量 = ammo_grenade_limit_flashbang
 
+```
