@@ -189,7 +189,7 @@ TOP游廊 Community ZombieEscape Configs Settings
 ##  ze_tyranny_v5_go3 暴君魔典紀元:第一部分
 1. 神器拾取修復
 2. 全面漢化
-##  ze_tyranny2_v1_csgo2.cfg 暴君魔典紀元:第二部分、
+##  ze_tyranny2_v1_csgo2.cfg 暴君魔典紀元:第二部分
 1. 開局護甲發放
 2. 聖經次數限制
 3. 全面漢化
