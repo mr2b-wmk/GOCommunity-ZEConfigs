@@ -158,6 +158,10 @@ TOP游廊 Community ZombieEscape Configs Settings
 ##  ze_paper_escaper_p7 紙質大逃亡
 1. 修改核爆傷害
 >由 健忘症晚期 修復
+##  ze_project_codex_v1_2 彩虹聖典
+1. 全面漢化
+2. 關卡標題小雜項
+>由 椀 修復
 ##  ze_parking_p4 最終疏散:停車場
 1. 修改核爆傷害
 >由 健忘症晚期 修復
