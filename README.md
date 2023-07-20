@@ -110,6 +110,10 @@ TOP游廊 Community ZombieEscape Configs Settings
 ##  ze_dystopia_a4 反烏托邦
 1. 和諧黃色元素
 >由 幽々子 修復
+##  ze_eternal_journey_go_v1_4t8 永恒旅途
+1. 修復冰神器卡頓
+2. 跳過第四關
+>由 健忘症晚期等 修復
 ## 最終幻想7與最終幻想12
 1. 過於冗長，在此不列出
 ##  ze_frostdrake_tower_v1 寒霜高塔(冰龍)
