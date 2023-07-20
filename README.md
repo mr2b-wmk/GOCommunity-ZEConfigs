@@ -178,6 +178,7 @@ TOP游廊 Community ZombieEscape Configs Settings
 2. 連關製
 3. 去除裡世界黑幕
 4. 和諧
+5. 蘇格拉底的血量顯示以補償推力玩家和僵屍調整終局戰術
 >除官方外由 血色的龍琉璃等 修復
 ##  ze_serpentis_temple_csgo5 美杜莎神廟v1(csgo5)
 1. 難度增加
