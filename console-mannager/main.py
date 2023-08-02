@@ -3,7 +3,7 @@ import os
 import shutil
 
 header = "\""
-Tail = "\"\n{\n\t\t\"default\"\t\t\t\t\" \"\n\t\t\"print\"\t\t\t\t\"hud\"\n\t\t\"timer\"\t\t\t\t\"0\"\n\t\t\"timercover\"\t\t\t\t\"0\" \n\t\t\"timertip\"\t\t\t\t\"倒计时 {time} 秒\"\n\t\t\"timerend\"\t\t\" \"\n\t\t\"mulithud\"\t\t\t\t\"1\" \n\t\t\"taskhud\"\t\t\t\t\"0\"\n\t\t\"taskmessage\"\t\t\t\t\" \"\n}\n"
+Tail = "\"\n{\n\t\t\"default\"\t\t\t\t\" \"\n\t\t\"print\"\t\t\t\t\"usermessage\"\n\t\t\"timer\"\t\t\t\t\"0\"\n\t\t\"timercover\"\t\t\t\t\"0\" \n\t\t\"timertip\"\t\t\t\t\"倒计时 {time} 秒\"\n\t\t\"timerend\"\t\t\" \"\n\t\t\"mulithud\"\t\t\t\t\"1\" \n\t\t\"taskhud\"\t\t\t\t\"0\"\n\t\t\"taskmessage\"\t\t\t\t\" \"\n}\n"
 
 ##rename
 def copy_and_rename_files(source_folder, destination_folder, target_extension, new_name):
