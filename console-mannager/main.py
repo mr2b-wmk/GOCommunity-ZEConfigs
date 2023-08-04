@@ -6,12 +6,14 @@
 ####请注意，本软件仍有重大bug######
 #################################
 
-
 import re
 import os
+import glob
 import shutil
-import subprocess
 import requests
+import importlib
+import subprocess
+
 
 header = "\t\""
 Tail = "\"\n\t{\n\t\t\t\"default\"\t\t\"\"\n\t\t\t\"timer\"\t\t\"0\"\n\t\t\t\"timercover\"\t\t\"0\"\n\t\t\t\"timertip\"\t\t\"倒计时 {time} 秒\"\n\t\t\t\"timerend\"\t\t\"\"\n\t}\n"
@@ -22,12 +24,35 @@ top_tail = "\n}"
 ###函数区###
 ###########
 
+##使用request前检查
+def check_and_install_requests():
+    try:
+        # 尝试导入requests库，如果已安装，则不会抛出异常
+        importlib.import_module('requests')
+        print("已经安装了requests库。正在进行下载操作")
+    except ImportError:
+        # 如果没有安装requests库，则询问用户是否要安装
+        response = input("没有找到requests库，是否允许安装？(yes/no): ").strip().lower()
+        if response == 'yes':
+            try:
+                # 使用pip安装requests库
+                print("正在安装requests库，请稍等...")
+                import pip
+                pip.main(['install', 'requests'])
+                print("安装成功！")
+            except Exception as e:
+                print("安装失败，请检查网络连接或手动安装。")
+                exit()
+        else:
+            print("你拒绝安装requests库。请自行下载bspsrc.jar文件")
+            exit()
 ##检查是否拥有反编译工具，没有就下载
 def check_and_download_file(url, filename):
     if os.path.exists(filename):
         print("反编译工具存在，正在开始工作")
     else:
         print("反编译工具不存在，正在开始下载")
+        check_and_install_requests()
         try:
             response = requests.get(url)
             with open(filename, "wb") as file:
@@ -61,6 +86,42 @@ def save_to_file(file_list, output_file):
     with open(output_file, "w") as f:
         for file_path in file_list:
             f.write(file_path + "\n")
+
+#获取当前bsp文件的名字，等会直接重命名vmf
+def get_unique_bsp_filename():
+    bsp_files = glob.glob("*.bsp")  # 获取当前文件夹中所有后缀名为bsp的文件列表
+    if len(bsp_files) == 1:
+        file_path = bsp_files[0]  # 获取文件的完整路径
+        file_name = os.path.splitext(file_path)[0]  # 去除后缀，只获取文件名部分
+        return file_name
+    elif len(bsp_files) > 1:
+        raise ValueError("当前文件夹中有多个后缀名为bsp的文件，请确认只有一个符合条件的文件。")
+    else:
+        raise FileNotFoundError("当前文件夹中没有后缀名为bsp的文件。")
+#重命名vmf，去除-d后缀
+def rename_vmf_file():
+    folder_path = os.getcwd()  # 替换成您文件所在目录的实际路径
+    new_file_name = bspfilename+".vmf"
+
+    # 获取目录下所有的文件
+    files = os.listdir(folder_path)
+
+    # 筛选出后缀名为.vm的文件
+    vmf_files = [file for file in files if file.endswith(".vmf")]
+
+    if len(vmf_files) == 1:
+        old_file_name = vmf_files[0]
+        old_file_path = os.path.join(folder_path, old_file_name)
+        new_file_path = os.path.join(folder_path, new_file_name)
+
+        try:
+            # 重命名文件
+            os.rename(old_file_path, new_file_path)
+            print(f"文件 {old_file_name} 重命名为 {new_file_name}")
+        except Exception as e:
+            print(f"重命名出错：{e}")
+    else:
+        print("找到多个或没有后缀名为 .vmf 的文件，无法执行重命名操作。")
 
 ##将vmf复制一份并重命名，不对原文件进行操作
 def copy_and_rename_files(source_folder, destination_folder, target_extension, new_name):
@@ -157,6 +218,24 @@ def delete_files():
             print(f"Deleted {filename}")
         else:
             print(f"{filename} not found, skipping.")
+
+##最后移动到新的文件夹中
+def move_files_to_folder(file_prefix):
+    # 获取当前文件夹中所有以指定前缀开头的文件列表
+    files_to_move = [filename for filename in os.listdir() if filename.startswith(file_prefix)]
+
+    # 创建以指定前缀为名称的文件夹
+    folder_name = file_prefix
+    if not os.path.exists(folder_name):
+        os.mkdir(folder_name)
+
+    # 移动文件到新建的文件夹中
+    for file_to_move in files_to_move:
+        src_path = os.path.abspath(file_to_move)
+        dst_path = os.path.abspath(os.path.join(folder_name, file_to_move))
+        shutil.move(src_path, dst_path)
+
+
 ###########
 ###操作区###
 ###########
@@ -208,7 +287,13 @@ result = subprocess.run(command, shell=True, capture_output=True, text=True)
 print("返回值:", result.returncode)
 print("标准输出:", result.stdout)
 print("错误输出:", result.stderr)
-
+#在重命名之前先去除-d
+try:
+    bspfilename = get_unique_bsp_filename()
+    print(f"获取到了bsp的文件名:  {bspfilename}")
+    rename_vmf_file()
+except (ValueError, FileNotFoundError) as e:
+    print(e)
 ##重命名
 if __name__ == "__main__":
     # Get the current working directory (where the script is located).
@@ -276,3 +361,7 @@ shutil.copy(file_name, new_file_name)
 ##删除过程垃圾（注释此段可以debug）
 if __name__ == "__main__":
     delete_files()
+
+##最后移动到新的文件夹中
+file_prefix = bspfilename
+move_files_to_folder(file_prefix)
