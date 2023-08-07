@@ -1,0 +1,92 @@
+"ConsoleMessage"
+{
+	"<<60 sec.>>"
+	{
+			"default"		"60秒倒计时"
+			"timer"		"60"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***The level set to 1.***"
+	{
+			"default"		"关卡设置第一关"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***The level set to 2.***"
+	{
+			"default"		"关卡设置第二关"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<50 sec.>>"
+	{
+			"default"		"50秒倒计时"
+			"timer"		"50"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<20 sec.>>"
+	{
+			"default"		"20秒倒计时"
+			"timer"		"20"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<30 sec.>>"
+	{
+			"default"		"30秒倒计时"
+			"timer"		"30"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<45 sec.>>"
+	{
+			"default"		"45秒倒计时"
+			"timer"		"45"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<< 20 sec.>>"
+	{
+			"default"		"20秒倒计时"
+			"timer"		"20"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<40 sec.>>"
+	{
+			"default"		"40秒倒计时"
+			"timer"		"40"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<70 sec.>>"
+	{
+			"default"		"70秒倒计时"
+			"timer"		"70"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<20 sec.>>"
+	{
+			"default"		"20秒倒计时"
+			"timer"		"20"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+
+}
