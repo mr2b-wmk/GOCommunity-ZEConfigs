@@ -1,0 +1,676 @@
+"ConsoleMessage"
+{
+	"*** Player has picked up Heal ***"
+	{
+			"default"		"有玩家拿到了奶神器"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***ZM TP IN 5 SEC***"
+	{
+			"default"		"僵尸将在 5 秒后传送"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"僵尸将在 {time} 秒后传送"
+			"timerend"		""
+	}
+	"***DEFEND THIS ROOM 30 SEC***"
+	{
+			"default"		"防守房间 30 秒"
+			"timer"		"30"
+			"timercover"		"1"
+			"timertip"		"防守房间 {time} 秒"
+			"timerend"		""
+	}
+	"***DOOR CLOSING IN 10 SEC***"
+	{
+			"default"		"大门将在 10 秒后关闭"
+			"timer"		"10"
+			"timercover"		"1"
+			"timertip"		"大门将在 {time} 秒后关闭"
+			"timerend"		""
+	}
+	"***SURVIVE 60 SECONDS***"
+	{
+			"default"		"存活 60 秒！"
+			"timer"		"60"
+			"timercover"		"1"
+			"timertip"		"存活 {time} 秒！"
+			"timerend"		""
+	}
+	"***20 SECONDS LEFT***"
+	{
+			"default"		"还剩 20 秒！"
+			"timer"		"20"
+			"timercover"		"1"
+			"timertip"		"还剩 {time} 秒！"
+			"timerend"		""
+	}
+	"***ELEVATOR LEAVING IN 30 SEC***"
+	{
+			"default"		"电梯将在 30 秒后离开"
+			"timer"		"30"
+			"timercover"		"0"
+			"timertip"		"电梯将在 {time} 秒后离开"
+			"timerend"		""
+	}
+	"***ELEVATOR LEAVING IN 10 SEC***"
+	{
+			"default"		"电梯将在 10 秒后离开"
+			"timer"		"10"
+			"timercover"		"1"
+			"timertip"		"电梯将在 {time} 秒后离开"
+			"timerend"		""
+	}
+	"***GET ON IT FAST***"
+	{
+			"default"		"快上去！"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***TELPORTING ZM***"
+	{
+			"default"		"僵尸传送中"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***JUMP DOWN***"
+	{
+			"default"		"跳下去！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***TELEPORTING ZM IN 10 SEC***"
+	{
+			"default"		"僵尸将会在 10 秒后传送！"
+			"timer"		"10"
+			"timercover"		"1"
+			"timertip"		"僵尸将会在 {time} 秒后传送！"
+			"timerend"		""
+	}
+	"***LADDER FALLING DOWN IN 20 SEC***"
+	{
+			"default"		"梯子在 20 秒后倒塌"
+			"timer"		"20"
+			"timercover"		"1"
+			"timertip"		"梯子在 {time} 秒后倒塌"
+			"timerend"		""
+	}
+	"***10 SEC LEFT***"
+	{
+			"default"		"剩余时间 10 秒"
+			"timer"		"10"
+			"timercover"		"1"
+			"timertip"		"剩余时间 {time} 秒"
+			"timerend"		""
+	}
+	"***TELPORTING ZM IN 5 SEC***"
+	{
+			"default"		"僵尸将在 5 秒后传送"
+			"timer"		"5"
+			"timercover"		"1"
+			"timertip"		"僵尸将在 {time} 秒后传送"
+			"timerend"		""
+	}
+	"***OPENING IN 30 SEC***"
+	{
+			"default"		"大门将在 30 秒后打开"
+			"timer"		"30"
+			"timercover"		"1"
+			"timertip"		"大门将在 {time} 秒后打开"
+			"timerend"		""
+	}
+	"***OPENING IN 10 SEC***"
+	{
+			"default"		"大门将在 10 秒后打开"
+			"timer"		"10"
+			"timercover"		"1"
+			"timertip"		"大门将在 {time} 秒后打开"
+			"timerend"		""
+	}
+	"***PLATFORMS ARE COMING SOON***"
+	{
+			"default"		"平台即将到来"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***PLATFORMS ARE ON THE WAY***"
+	{
+			"default"		"平台在路上了"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***OPENING IN 5 SEC***"
+	{
+			"default"		"大门将在 5 秒后打开"
+			"timer"		"5"
+			"timercover"		"1"
+			"timertip"		"大门将在 {time} 秒后打开"
+			"timerend"		""
+	}
+	"***GET INSIDE***"
+	{
+			"default"		"快进去"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***YOU DEFEATED HIM***"
+	{
+			"default"		"你打败了他！"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***KILL THE ZOMBIES***"
+	{
+			"default"		"杀掉僵尸！"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***CONGRATS***"
+	{
+			"default"		"恭喜！"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***GET INSIDE THE SHIP FAST***"
+	{
+			"default"		"快进飞船！"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***WE ARE UNDER ATTACK***"
+	{
+			"default"		"我们受到攻击"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***DEFEND UNTIL WE REACH DOOKU***"
+	{
+			"default"		"坚守直到我们到达杜库！"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***GOOD JOB***"
+	{
+			"default"		"干得漂亮"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***LETS CATCH UP DOOKU NOW***"
+	{
+			"default"		"让我们现在赶上杜库"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Stage 2 - Attack of the Clones***"
+	{
+			"default"		"关卡二-克隆人的进攻"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Stage 1 - The Phantom Menace***"
+	{
+			"default"		"关卡一-幽灵的威胁"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***DEDICATED TO MAPEADORES***"
+	{
+			"default"		"献给：mapeadores"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***MAP BY RAPHI***"
+	{
+			"default"		"地图作者：RAPHI 地图翻译：托儿索 感谢：苏妲 c1m @top游廊"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***I THINK HE IS DEAD***"
+	{
+			"default"		"我想他已经死了"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***ZOMBIES ARE COMING***"
+	{
+			"default"		"僵尸来了！"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***PLATFORM LEAVING IN 20 SEC***"
+	{
+			"default"		"站台 20 秒后离开"
+			"timer"		"20"
+			"timercover"		"1"
+			"timertip"		"站台 {time} 秒后离开"
+			"timerend"		""
+	}
+	"***YOU'VE DEFEATED ANAKIN!!!***"
+	{
+			"default"		"你打败了阿纳金!!"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***CONGRATS FOR BEATING THE MAP***"
+	{
+			"default"		"祝贺你们获胜了！"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***MADE BY RAPHI***"
+	{
+			"default"		"地图作者：RAPHI 地图翻译：托儿索 感谢：苏妲 c1m @top游廊"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***HIS ANGER BECOMES UNCONTROLABLE***"
+	{
+			"default"		"他的愤怒变得无法控制"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***IT LOOKS HOT WAIT A MOMENT***"
+	{
+			"default"		"看起来很热，等一下"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***WAIT 10 MORE SECONDS***"
+	{
+			"default"		"再等 10 秒"
+			"timer"		"10"
+			"timercover"		"1"
+			"timertip"		"再等 {time} 秒"
+			"timerend"		""
+	}
+	"***THE WAY SEEMS CLEAR***"
+	{
+			"default"		"道路似乎很清晰"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***DEFEND UNTIL SOME HELP ARRIVE***"
+	{
+			"default"		"防守直到有人来帮忙"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***PLATFORM LEAVING IN 15 SEC***"
+	{
+			"default"		" 15 秒后离开站台"
+			"timer"		"15"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒后离开站台"
+			"timerend"		""
+	}
+	"***WHAT IS GOING ON???***"
+	{
+			"default"		"发生了什么事???"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***ZOMBIES !!***"
+	{
+			"default"		"有僵尸正在向我们逼近！！"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***YOU'VE ESCAPED ANAKIN***"
+	{
+			"default"		"你逃过了阿纳金的魔掌"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Hope he is dead...***"
+	{
+			"default"		"希望他已经死了"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***HOLD ON***"
+	{
+			"default"		"坚持住"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***WHAT IS GOING ON***"
+	{
+			"default"		"发生了什么事?"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***ATTACK: DOWN LIGHT SABER THROW***"
+	{
+			"default"		"攻击:向下投掷光剑"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***ATTACK: FORCE ATTRACTION***"
+	{
+			"default"		"攻击:原力吸引"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***ATTACK: DEFENSIVE POSITION***"
+	{
+			"default"		"攻击:防守位置"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***ATTACK: UP LIGHT SABER THROW***"
+	{
+			"default"		"攻击:举起光剑投掷"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***PLATFORM LEAVING IN 5SEC***"
+	{
+			"default"		"倒计时 5 秒后站台离开"
+			"timer"		"5"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒后站台离开"
+			"timerend"		""
+	}
+	"***ANAKIN IS CONSUMED BY THE DARK SIDE***"
+	{
+			"default"		""
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***STAY BACK AND SHOOT***"
+	{
+			"default"		"阿纳金被黑暗势力吞噬了"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***OUTSIDE DOOR OPEN IN 45 SEC***"
+	{
+			"default"		"倒计时 45 秒后打开外层门"
+			"timer"		"45"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒后打开外层门"
+			"timerend"		""
+	}
+	"***INSIDE DOOR OPEN IN 15 SEC***"
+	{
+			"default"		"内门在 15 秒内打开"
+			"timer"		"15"
+			"timercover"		"1"
+			"timertip"		"内门在 {time} 秒内打开"
+			"timerend"		""
+	}
+	"***INSIDE DOOR OPEN IN 5 SEC***"
+	{
+			"default"		"内门在 5 秒内打开"
+			"timer"		"5"
+			"timercover"		"1"
+			"timertip"		"内门在 {time} 秒内打开"
+			"timerend"		""
+	}
+	"***OUTSIDE DOOR OPEN IN 20 SEC***"
+	{
+			"default"		"倒计时 20 秒后打开外层门"
+			"timer"		"20"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒后打开外层门"
+			"timerend"		""
+	}
+	"***OUTSIDE DOOR OPEN IN 5 SEC***"
+	{
+			"default"		"倒计时 5 秒后打开外层门"
+			"timer"		"5"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒后打开外层门"
+			"timerend"		""
+	}
+	"***GET ON THE PLATFORM***"
+	{
+			"default"		"到站台上去"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***DOOR OPEN IN 30 SEC***"
+	{
+			"default"		"大门在 30 秒内打开"
+			"timer"		"30"
+			"timercover"		"1"
+			"timertip"		"大门在 {time} 秒内打开"
+			"timerend"		""
+	}
+	"***DOOR OPEN IN 10 SEC***"
+	{
+			"default"		"大门在 10 秒内打开"
+			"timer"		"10"
+			"timercover"		"1"
+			"timertip"		"大门在 {time} 秒内打开"
+			"timerend"		""
+	}
+	"***DOOR OPEN IN 45 SEC***"
+	{
+			"default"		"大门在 45 秒内打开"
+			"timer"		"45"
+			"timercover"		"1"
+			"timertip"		"大门在 {time} 秒内打开"
+			"timerend"		""
+	}
+	"***DOOR OPEN IN 20 SEC***"
+	{
+			"default"		"大门在 20 秒内打开"
+			"timer"		"20"
+			"timercover"		"1"
+			"timertip"		"大门在 {time} 秒内打开"
+			"timerend"		""
+	}
+	"***DOOR OPEN IN 5 SEC***"
+	{
+			"default"		"大门在 5 秒内打开"
+			"timer"		"5"
+			"timercover"		"1"
+			"timertip"		"大门在 {time} 秒内打开"
+			"timerend"		""
+	}
+	"***DOOR CLOSE IN 5 SEC***"
+	{
+			"default"		"大门在 5 秒内关闭"
+			"timer"		"5"
+			"timercover"		"1"
+			"timertip"		"大门在 {time} 秒内关闭"
+			"timerend"		""
+	}
+	"***LEDGE BREAK IN 40 SEC***"
+	{
+			"default"		"倒计时 40 秒后墙壁破碎"
+			"timer"		"40"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒后墙壁破碎"
+			"timerend"		""
+	}
+	"***LEDGE BREAK IN 20 SEC***"
+	{
+			"default"		"倒计时 20 秒后墙壁破碎"
+			"timer"		"20"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒后墙壁破碎"
+			"timerend"		""
+	}
+	"***LEDGE BREAK IN 10 SEC***"
+	{
+			"default"		"倒计时 10 秒后墙壁破碎"
+			"timer"		"10"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒后墙壁破碎"
+			"timerend"		""
+	}
+	"***YOU DEFEATED DARTH MAUL***"
+	{
+			"default"		"你打败了达斯·摩尔"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	">>>> 30 sec <<<<"
+	{
+			"default"		"倒计时 30 秒"
+			"timer"		"30"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	">>>> 10 sec <<<<"
+	{
+			"default"		"倒计时 10 秒"
+			"timer"		"10"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	">>>> FALL BACK <<<<"
+	{
+			"default"		"快润！"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	">>>> 20 sec <<<<"
+	{
+			"default"		"倒计时 20 秒"
+			"timer"		"20"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	">>>> 40 sec <<<<"
+	{
+			"default"		"倒计时 40 秒"
+			"timer"		"40"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	">>>> GET INSIDE <<<<"
+	{
+			"default"		"快进去！"
+			"timer"		"0"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	">>>> 5 sec <<<<"
+	{
+			"default"		"倒计时 5 秒"
+			"timer"		"5"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	">>>> 15 sec <<<<"
+	{
+			"default"		"倒计时 15 秒"
+			"timer"		"15"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Elevator will leave in 30 sec"
+	{
+			"default"		"电梯将在 30 秒后离开"
+			"timer"		"30"
+			"timercover"		"1"
+			"timertip"		"电梯将在 {time} 秒后离开"
+			"timerend"		""
+	}
+	">>>> 10 sec <<<<"
+	{
+			"default"		"倒计时 10 秒"
+			"timer"		"10"
+			"timercover"		"1"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+
+}
