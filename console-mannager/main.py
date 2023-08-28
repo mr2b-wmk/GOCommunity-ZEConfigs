@@ -4,6 +4,7 @@
 ####请注意，本软件禁止非授权商用####
 ####请注意，本软件仍处于beta版本####
 ####请注意，本软件仍有重大bug######
+####需要jdk python 和python中的request模块######
 #################################
 
 import re
@@ -16,7 +17,8 @@ import subprocess
 
 
 header = "\t\""
-Tail = "\"\n\t{\n\t\t\t\"default\"\t\t\"\"\n\t\t\t\"timer\"\t\t\"0\"\n\t\t\t\"timercover\"\t\t\"0\"\n\t\t\t\"timertip\"\t\t\"倒计时 {time} 秒\"\n\t\t\t\"timerend\"\t\t\"\"\n\t}\n"
+Body = "\"\n\t{\n\t\t\t\"default\"\t\t\""
+Tail = "\"\n\t\t\t\"timer\"\t\t\"0\"\n\t\t\t\"timercover\"\t\t\"0\"\n\t\t\t\"timertip\"\t\t\"倒计时 {time} 秒\"\n\t\t\t\"timerend\"\t\t\"\"\n\t}\n"
 top_header = "\"ConsoleMessage\"\n{\n"
 top_tail = "\n}"
 
@@ -190,7 +192,7 @@ def text_formatted(input_file, output_file):
 
     with open(output_file, "w", encoding="utf-8") as f:
         for line in lines:
-            processed_line = header + line.strip() + Tail
+            processed_line = header + line.strip() + Body+ line.strip() +Tail
             f.write(processed_line)
 
 ##修改为top社区格式
