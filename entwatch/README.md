@@ -14,6 +14,7 @@ entWatch informations
 | cooldown  | 冷却时间	|
 | usemax  | 最大使用次数 	|
 | ban  | 是否禁用该神器	|
+| epick  | 是否允许按E拾取该神器	|
 ---
 
 ## 举例说明
@@ -30,7 +31,7 @@ entWatch informations
 	"blue"		"255" // glow - blue
 	"cooldown"		"60" // cd
 	"usemax"		"0" // 最大使用次数 (0为不限制）
-	"ban"		"0" // 是否禁用该神器
+	"epick"		"0" // 禁止epick拾取
 }
 ```
 
@@ -49,5 +50,6 @@ entWatch informations
 	"cooldown"		"60"
 	"usemax"		"0"
 	"ban"		"0"
+    "epick"		"0"
 }
 ```
