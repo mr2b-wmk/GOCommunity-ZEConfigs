@@ -1,0 +1,104 @@
+;托儿索的Stp版本230906/1
+;----------------------------------------------------------------------------------
+;Stripper#1 增加stp版本显示
+modify:
+{
+	match:
+            {
+        	"classname" "logic_auto"
+            }
+	insert:
+            {
+        	"OnMapSpawn" "mingling5Commandsay 托儿索的Stp版本230906/101"
+			"OnMapSpawn" "mingling5Commandsay 此地图有摔伤！注意！有摔伤01"
+        	"OnMapSpawn" "mingling5Commandsay 感谢苏妲，c1m的大力帮助01"
+			"OnMapSpawn" "mingling5Commandsay 感谢nino老师的无私奉献01"
+			"OnMapSpawn" "mingling5Commandsay @top游廊僵尸逃跑，本地图为测试版本，不代表最终品质，如有建议请联系管理员01"
+            }
+}
+;下面是中文翻译部分无法显示出去的文字 game_text篇
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+modify:
+    {
+    match:
+        {
+			"targetname" "game_text"
+			"classname" "game_text"
+		}
+    replace:
+        {
+			"message" "半条命 横空出世——火之心"
+		}
+    }    
+modify:
+    {
+    match:
+        {
+			"targetname" "game_text2"
+			"classname" "game_text"
+		}
+    replace:
+        {
+			"message" "正在上传病毒中。。"
+		}
+    }
+    modify:
+    {
+    match:
+        {
+			"targetname" "game_text3"
+			"classname" "game_text"
+		}
+    replace:
+        {
+			"message" "病毒上传了！防御直到系统完全损坏！"
+		}
+    }
+    modify:
+    {
+    match:
+        {
+			"targetname" "game_text4"
+			"classname" "game_text"
+		}
+    replace:
+        {
+			"message" "天哪，现在一切都搞砸了，激光已启用！"
+		}
+    }
+    modify:
+    {
+    match:
+        {
+			"targetname" "game_text5"
+			"classname" "game_text"
+		}
+    replace:
+        {
+			"message" "远离光束!!"
+		}
+    }
+    modify:
+    {
+    match:
+        {
+			"targetname" "game_text6"
+			"classname" "game_text"
+		}
+    replace:
+        {
+			"message" "暴走计划环节!!"
+		}
+    }                                                                     
+modify:
+    {
+	match:
+		{
+			"targetname" "game_text2"
+			"classname" "game_text"
+		}
+	insert:
+		{
+			"OnTrigger" "text_commandCommandsay 坚持住： 120 秒0-1"
+		}
+    }
