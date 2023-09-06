@@ -1,0 +1,748 @@
+"ConsoleMessage"
+{
+	"<<<Zombies are getting closer to the root of all evil! Zombies now have 1.12 speed buff!>>>"
+	{
+			"default"		"僵尸越来越接近万恶之源！僵尸现在有1.12速度增益！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The path is split into two...maybe we should split up equally?>>>"
+	{
+			"default"		"路径分为两部分...也许我们应该兵分两路？"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***You have defeated Formortiis and successfully sealed away his remaining souls***"
+	{
+			"default"		"你打败了福莫蒂斯，成功封印了他剩下的灵魂"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***You have achieved the impossible...***"
+	{
+			"default"		"你已经实现了不可能完成的事情..."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***You are the hero of Magvel***"
+	{
+			"default"		"***你是马格维尔的英雄***"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Enabling tp to final boss room in 30 seconds>>>"
+	{
+			"default"		"在 30 秒内传送到最终boss房"
+			"timer"		"30"
+			"timercover"		"0"
+			"timertip"		"在 {time} 秒内传送到最终boss房"
+			"timerend"		""
+	}
+	"<<<Formortiis: Come, and face your death! Im waiting, you miserable fool. Your corpse will make a perfect offering in my resurrection...>>>"
+	{
+			"default"		"福莫蒂斯： 来吧，面对你的死亡！我在等，你这个可怜的傻瓜。你的尸体将在我复活时成为完美的祭品..."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Sacred Stone have detected powerful evil being...>>>"
+	{
+			"default"		"圣石已经探测到了强大的邪恶生物..."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The stone has unlocked itself...USE IT NOW!!!!>>>"
+	{
+			"default"		"石头已经解锁了自己...现在使用它!!!"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Formortiis: Burn in ferocious lightning...>>>"
+	{
+			"default"		"福莫蒂斯： 在凶猛的闪电中燃烧..."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Formortiis: Facing the deceased ones....how interesting...>>>"
+	{
+			"default"		"福莫蒂斯： 面对死者...真有趣..."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Mist....***"
+	{
+			"default"		"大雾..."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Sword of Judgement....***"
+	{
+			"default"		"审判之剑...."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Formortiis: Bring them to me...minions>>>"
+	{
+			"default"		"福莫蒂斯： 把他们带给我...奴才"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Formortiis has changed weak point***"
+	{
+			"default"		"福莫蒂斯改变了弱点"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Formortiis: Mortal! Do you fear your own nightmare?...>>>"
+	{
+			"default"		"福莫蒂斯： 凡人！你害怕自己的噩梦吗?..."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Slow....***"
+	{
+			"default"		"慢点..."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Path opening soon...>>>"
+	{
+			"default"		"道路即将开通..."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Hint: Zombies will get tp after this....don't doorhug!>>>"
+	{
+			"default"		"提示：僵尸在此之后会得到tp....不要贴死门！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<We need explosion to open up this door...>>>"
+	{
+			"default"		"我们需要爆炸来打开这扇门..."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<What can we use?>>>"
+	{
+			"default"		"我们可以使用什么？"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<ZM got inside!>>>"
+	{
+			"default"		"ZM进去了！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Stage Failed! Game Over...>>>"
+	{
+			"default"		"关卡失败！游戏结束。。。"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Pathway opens up son....>>>"
+	{
+			"default"		"道路马上打开。"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<We're almost at the end of the cave! Just hold on!>>>"
+	{
+			"default"		"我们快到洞的尽头了！坚持住！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Path to Grado Town will be opened soon>>>"
+	{
+			"default"		"通往格拉多镇的道路将很快开通"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<However, a strong seal blocks the path ahead...please wait....>>>"
+	{
+			"default"		"然而，一道坚固的封印挡住了前方的道路……请稍等…"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<We have reached the gate! Hold a just bit longer>>>"
+	{
+			"default"		"我们已经到达大门了!再等一会儿"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<We're finally here....opening up the gate...>>>"
+	{
+			"default"		"我们终于到了....打开大门……"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Wait, what is that?>>>"
+	{
+			"default"		"等等，那是什么?"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<This might be the end...of the journey...>>>"
+	{
+			"default"		"这可能就是我们旅途的结局了…………?"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The stone....>>>"
+	{
+			"default"		"< < <石头…> > >"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Go and defeat Grado's general and find the secret within!>>>"
+	{
+			"default"		"去打败格拉多的将军，找到里面的秘密!"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Hint: Ring the bell at the lighthouse!>>>"
+	{
+			"default"		"提示:按灯塔的铃!"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Signal has been sounded...>>>"
+	{
+			"default"		"信号已经响了……"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Congratulations! Advancing to next chapter>>>"
+	{
+			"default"		"恭喜你!进入下一章"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<A zombie GOT ON THE SHIP! Game over....>>>"
+	{
+			"default"		"一只僵尸上了船!游戏结束了……"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Zombie ship is coming....>>>"
+	{
+			"default"		"僵尸船来了...."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The mist is here...defend yourself from the monsters...>>>"
+	{
+			"default"		"雾来了……保护自己免受怪物的伤害……"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Hint: Icebergs will only come from the front of the ship...Break them before it damages your ship!>>>"
+	{
+			"default"		"“<<提示:冰山只会来自船的前部……在它损坏你的飞船之前把它们打碎!> > >”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Zombie ship is coming...>>>"
+	{
+			"default"		"<<<僵尸船来了…>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<You may need to open up the other door first....>>>"
+	{
+			"default"		"你可能需要先打开另一扇门...."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Gaia Blast***"
+	{
+			"default"		"盖亚爆炸"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Stage Failed! Game Over...***"
+	{
+			"default"		"关卡失败!游戏结束了……"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The Sacred Guardian resides in the depth of this dungeon...>>>"
+	{
+			"default"		"神圣守护者就住在地牢的深处……"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Tracing Spirit is casting...***"
+	{
+			"default"		"追踪之灵正在施法…"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Platform rising in 15 sec>>>"
+	{
+			"default"		"平台在15秒内上升"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<ZM Tp enables in 35 sec>>>"
+	{
+			"default"		"ZM传送在 35 秒后启用"
+			"timer"		"35"
+			"timercover"		"0"
+			"timertip"		"ZM传送在 {time} 秒后启用"
+			"timerend"		""
+	}
+	"<<<Hint: break the statue in the middle>>>"
+	{
+			"default"		"提示:打破中间的雕像"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The door here seems to be locked? Nades don't seem to work anymore...We need a key>>>"
+	{
+			"default"		"这里的门好像是锁着的?”Nades似乎不再起作用了……我们需要一把钥匙"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Path opening up soon...>>>"
+	{
+			"default"		"道路很快就会开通…"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The dungeon is straight ahead...>>>"
+	{
+			"default"		"地牢就在正前方……"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Grenades can now be used on the other side door...>>>"
+	{
+			"default"		"“<<手榴弹现在可以在另一边的门上使用了…>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<These crystals are more polished than the ones in the cave...>>>"
+	{
+			"default"		"“<<<这些晶体比洞穴里的更光滑…>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Hint: Pull the lever first before you break the crystal....>>>"
+	{
+			"default"		"<<<提示:在打破水晶之前先拉杠杆....>> "
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Hint: there are a total of three crystals, upon destroying all, you shall receive the key to advance>>>"
+	{
+			"default"		"“<<提示:一共有三颗水晶，摧毁后，你将获得前进的钥匙>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***A Player has picked up Roy***"
+	{
+			"default"		"“***一名玩家捡走了罗伊***”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The cage is now unlocked...>>>"
+	{
+			"default"		"笼子现在打开了……"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<WE got the key! Key user need to go through the tunnel to reach the other side...>>>"
+	{
+			"default"		"“我们拿到钥匙了!”密钥用户需要穿过隧道到达另一边…>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Let's hurry before Grado lays their hand on the last stone!>>>"
+	{
+			"default"		"“在格拉多把他们拿到最后一块石头上之前，我们快点吧!”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Hint: Break the initial statue>>>"
+	{
+			"default"		"“<<提示:打破初始雕像>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<That cave opening should lead to the Rausten Depth...Hurry!>>>"
+	{
+			"default"		"“那个洞口应该通向罗斯丁深渊……快点!”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Break the chains to start unsealing processs...>>>"
+	{
+			"default"		"<<<打开链条开启开封程序…>>>"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Chapter 1: Escape From Renais***"
+	{
+			"default"		"“***第一章:逃离雷诺***”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Chapter 1: Rausten's Sacred Stone***"
+	{
+			"default"		"“***第一章:罗斯丁的圣石***”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Chapter 2: Rausten's Dungeon***"
+	{
+			"default"		"“***第二章:罗斯丁地牢***”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Chapter 3: Road to Grado***"
+	{
+			"default"		"“***第三章:通往格拉多的路***”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Chapter 4: Grado***"
+	{
+			"default"		"第四章：葛拉多***"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Final Chapter: Formortiis***"
+	{
+			"default"		"“***最后一章:formformis ***”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Activating Teleporter - Please Hold***"
+	{
+			"default"		"“***启动传送器-请稍等***”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Map by iXi***"
+	{
+			"default"		"地图作者：ixi 翻译:托儿索/白云真的白 @top游廊"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Music from: Fire Emblem 8, Vindictus, Overlord***"
+	{
+			"default"		"音乐来源：Fire Emblem 8, Vindictus, Overlord"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Your journey begins in 45 seconds***"
+	{
+			"default"		"你的旅程将在 45 秒后开始"
+			"timer"		"45"
+			"timercover"		"0"
+			"timertip"		"你的旅程将在 {time} 秒后开始"
+			"timerend"		""
+	}
+	"***Nuking...***"
+	{
+			"default"		"Nuking..."
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***This is my first map, enjoy!***"
+	{
+			"default"		"这是我的第一张地图，请享受我的地图!"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***For some reason my profile is dead, you can find me on GUC / GFL discord***"
+	{
+			"default"		"由于某些原因，我的个人资料已经死了，你可以在GUC / GFL discord上找到我"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***This is the final version of the map, there won't be any more patches/changes unless needed...***"
+	{
+			"default"		"“***这是地图的最终版本，除非需要，否则不会有任何补丁/改动…***”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Special thanks to Luffaren for the animation idea***"
+	{
+			"default"		"“***特别感谢Luffaren的动画创意***”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Custom assets 90% done by me***"
+	{
+			"default"		"“***自定义资产90%由我完成***”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Duessel mentions a Dark Stone to Ephraim>>>"
+	{
+			"default"		"“<<<杜塞尔向以法莲提及黑暗之石>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<a substance that Lyon extraced from Grado's Sacred Stone>>>"
+	{
+			"default"		"<<里昂从格拉多圣石中提取的物质>>>"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<We need to get to the bottom of this and end it!>>>"
+	{
+			"default"		"“我们必须查个水落石出，结束这一切!”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The best way to reach Grado is by sea>>>"
+	{
+			"default"		"到格拉多最好的方法是乘船"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The Grado Empire, a long-standing ally of Renais, launched a surprise attack on Renais, ordered by Emperor Vigarde>>>"
+	{
+			"default"		"“<<<雷诺的长期盟友格拉多帝国，在维加德皇帝的命令下，对雷诺发动了突然袭击>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<You must escape from Renais and find out Grado's motives>>>"
+	{
+			"default"		"“<<<你必须逃离雷诺，找出格拉多的动机>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<After series of battles and victories, most of the sacred stones are destroyed >>>"
+	{
+			"default"		"“<<<经过一系列的战斗和胜利，大部分圣石被摧毁>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The only sacred stone left is the one at Rausten Dungeon>>>"
+	{
+			"default"		"“<<<唯一剩下的圣石是Rausten地牢里的那块>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<This should be a piece of cake since we have defeated Grado's army at Rausten Court...>>>"
+	{
+			"default"		"“<<<这应该是小菜一碟，因为我们已经在罗斯丁宫打败了格拉多的军队…>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Crystal energy is fading***"
+	{
+			"default"		"“***水晶能量正在消退***”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Last one! Keep holding!>>>"
+	{
+			"default"		"“< < <最后一个!继续保持!> > >”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Path is blocked, perhaps we can destroy the crystal...>>>"
+	{
+			"default"		"<<路径被阻塞，也许我们可以摧毁水晶…>>>"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Hint: Destroy the brighter, smaller crystals>>>"
+	{
+			"default"		"“<<提示:破坏更亮、更小的晶体>>>”"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"***Crystal energy is fading...***"
+	{
+			"default"		"水晶能量正在消退……"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+
+}
