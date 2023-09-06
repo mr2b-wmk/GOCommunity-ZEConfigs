@@ -1,0 +1,252 @@
+"ConsoleMessage"
+{
+	"Rampage Mode on"
+	{
+			"default"		"暴走模式开启！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Prepare to fight until the end."
+	{
+			"default"		"所有人准备战至终章！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"GET ON THE HELICOPTER"
+	{
+			"default"		"快登上直升机！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"we still alive.."
+	{
+			"default"		"我们还活着！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Let's get out of here."
+	{
+			"default"		"让我们离开这里！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Get on the roof!!!"
+	{
+			"default"		"快上平台！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"The door opening in 15s"
+	{
+			"default"		"大门将在 15 秒后打开！"
+			"timer"		"15"
+			"timercover"		"0"
+			"timertip"		"大门将在 {time} 秒后打开！"
+			"timerend"		""
+	}
+	"Objective Rampage - Chapter Fire"
+	{
+			"default"		""
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Rise and shine, Soldiers with burning heart.>>>"
+	{
+			"default"		"<<<崭露头角！心中燃烧的士兵们!>>>	"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<No one is more deserving of a rest, all the effort in the world would have gone to waste.>>>"
+	{
+			"default"		"<<<有谁能比你更有资格享受空闲？但是，所有的世界文明的努力将付诸东流！>>>"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<your hour is come again.>>>"
+	{
+			"default"		"<<<现在属于你的时刻再次来临！>>>"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<The right man in the wrong place can make all the difference in the world.>>>"
+	{
+			"default"		"<<<天命之子终将会把有悖常理的世界变得天翻地覆！>>>"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Wake up and smell the Ashes.>>>"
+	{
+			"default"		"<<<战士们！醒来闻这硝烟的味道！>>>"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"<<<Good luck.>>>"
+	{
+			"default"		"<<<武运隆昌！>>>"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Put the valve on and turn it"
+	{
+			"default"		"拿起阀门并转动它！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Find a way to turn off the gas"
+	{
+			"default"		"找到关闭瓦斯气体的方法！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Door is opening"
+	{
+			"default"		"大门将在 60 秒后打开！"
+			"timer"		"60"
+			"timercover"		"0"
+			"timertip"		"大门将在 {time} 秒后打开！"
+			"timerend"		""
+	}
+	"Prepare.."
+	{
+			"default"		"准备好。。。"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"The doors opening in 30s"
+	{
+			"default"		"大门将在 30 秒后打开！"
+			"timer"		"30"
+			"timercover"		"0"
+			"timertip"		"大门将在 {time} 秒后打开！"
+			"timerend"		""
+	}
+	"RUN"
+	{
+			"default"		"快跑！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Get in and keep holding until the door is closed!"
+	{
+			"default"		"进去！并且坚守到大门关闭！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"We need to hack the computer and upload the virus!"
+	{
+			"default"		"我们需要去骇入电脑并且解锁大门！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Bad feelings..."
+	{
+			"default"		"感觉不妙。。"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"GET ON THE ELEVATOR"
+	{
+			"default"		"快上电梯！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Stay inside the room until the zombies outside get teleport!"
+	{
+			"default"		"待在房屋防守直到外面的僵尸传送！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Power has been Activated"
+	{
+			"default"		"电源已激活！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Find a way to get into the room!"
+	{
+			"default"		"找到进入房间的方法！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Get inside !"
+	{
+			"default"		"快进去！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Watch out!"
+	{
+			"default"		"小心！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"we need to turn on the stovepipe to break a way!"
+	{
+			"default"		"我们需要打开烟囱才能破门！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+	"Break the laser power switch!"
+	{
+			"default"		"打破激光电源开关！"
+			"timer"		"0"
+			"timercover"		"0"
+			"timertip"		"倒计时 {time} 秒"
+			"timerend"		""
+	}
+
+}
