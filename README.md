@@ -1,5 +1,11 @@
 ## TOP游廊 Community-ZEConfigs
 TOP游廊 Community ZombieEscape Configs Settings
+##回来吧我的游廊
+##我最骄傲的信仰
+##历历在目的ze
+##还有给力的神器
+##就算没积分
+##通宵obj也不累
 ## 使用说明
 | 对应目录             | 说明                                     |
 |------------------|----------------------------------------|
